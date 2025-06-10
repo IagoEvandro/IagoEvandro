@@ -20,48 +20,6 @@ Gerenciamento e consultas a bancos de dados relacionais com precisão para dar s
 
 ---
 
-## 🎯 Distribuição de Uso das Linguagens
-
-|
- Linguagem 
-|
- Uso (%) 
-|
-|
----------
-|
--------:
-|
-|
- Python    
-|
- 40%     
-|
-|
- HTML5     
-|
- 25%     
-|
-|
- CSS3      
-|
- 20%     
-|
-|
- SQL       
-|
- 15%     
-|
-
-<div style="background:#e0e0e0; border-radius:8px; overflow:hidden; width:100%; max-width:600px; height:24px; margin: 8px 0;">
-  <div style="width:40%; background:#4f46e5; height:100%; display:inline-block;"></div>
-  <div style="width:25%; background:#818cf8; height:100%; display:inline-block;"></div>
-  <div style="width:20%; background:#a5b4fc; height:100%; display:inline-block;"></div>
-  <div style="width:15%; background:#c7d2fe; height:100%; display:inline-block;"></div>
-</div>
-
----
-
 ## 🎯 O que Você Encontrará Aqui
 
 - Scripts e aplicações cuidadosamente desenvolvidos em **Python**  
