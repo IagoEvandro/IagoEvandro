@@ -1,43 +1,64 @@
-# My Technology Portfolio
+`README.md`
+```md
+# Meu Portfólio de Tecnologias
 
-Welcome to my GitHub portfolio! Here you'll find a curated collection of projects showcasing my skills across multiple programming languages and technologies, including Python, HTML5, CSS3, and SQL. Each project reflects my passion for elegant code, clean design, and practical solutions.
-
----
-
-## 🚀 Technologies I Use
-
-### Python
-A versatile and powerful language I use for backend development, scripting, data analysis, automation, and more.
-
-### HTML5
-The backbone of all web projects, ensuring semantic, accessible, and structured content for websites and applications.
-
-### CSS3
-Styling with modern CSS features — responsive layouts, animations, and clean design for smooth user experiences.
-
-### SQL
-Managing and querying relational databases with precision to power data-driven applications.
+Seja bem-vindo ao meu portfólio no GitHub! Aqui você encontrará uma coleção selecionada de projetos que mostram minhas habilidades em várias linguagens e tecnologias, como Python, HTML5, CSS3 e SQL. Cada projeto reflete minha paixão por código elegante, design clean e soluções práticas.
 
 ---
 
-## 🎯 What You’ll Find Here
+## 🚀 Tecnologias que Utilizo
 
-- Thoughtfully crafted scripts and applications in **Python**  
-- Clean, semantic **HTML5** markup combined with modern, responsive **CSS3** styling  
-- Database schema designs and optimized **SQL** queries  
-- Projects ranging from simple utilities to full web-based solutions  
-- Clear, well-documented code focused on maintainability and clarity  
+### Python  
+Uma linguagem versátil e poderosa que utilizo para desenvolvimento backend, scripts, análise de dados, automação e mais.
 
----
+### HTML5  
+A base de todos os projetos web, garantindo conteúdo semântico, acessível e estruturado para sites e aplicações.
 
-## Get Started
+### CSS3  
+Estilo com recursos modernos de CSS — layouts responsivos, animações e design clean para experiências suaves ao usuário.
 
-Feel free to explore the repositories and dive into the code. Whether you’re interested in web development, backend programming, or data management, there is something here for you. 
-
-If you have any questions or want to collaborate, don’t hesitate to open an issue or reach out!
+### SQL  
+Gerenciamento e consultas a bancos de dados relacionais com precisão para dar suporte a aplicações orientadas a dados.
 
 ---
 
-Made with passion for clean code and elegant technology.  
-Happy coding! 🚀
+## 🎯 Distribuição de Uso das Linguagens
 
+| Linguagem | Uso (%) |
+| --------- | -------:|
+| Python    | 40%     |
+| HTML5     | 25%     |
+| CSS3      | 20%     |
+| SQL       | 15%     |
+
+<div style="background:#e0e0e0; border-radius:8px; overflow:hidden; width:100%; max-width:600px; height:24px; margin: 8px 0;">
+  <div style="width:40%; background:#4f46e5; height:100%; display:inline-block;"></div>
+  <div style="width:25%; background:#818cf8; height:100%; display:inline-block;"></div>
+  <div style="width:20%; background:#a5b4fc; height:100%; display:inline-block;"></div>
+  <div style="width:15%; background:#c7d2fe; height:100%; display:inline-block;"></div>
+</div>
+
+---
+
+## 🎯 O que Você Encontrará Aqui
+
+- Scripts e aplicações cuidadosamente desenvolvidos em **Python**  
+- Marcação limpa e semântica em **HTML5** combinada com estilização moderna e responsiva em **CSS3**  
+- Modelos e consultas otimizados em **SQL**  
+- Projetos que vão desde utilitários simples até soluções web completas  
+- Código claro e bem documentado, focado em manutenção e legibilidade  
+
+---
+
+## Comece Agora
+
+Sinta-se à vontade para explorar os repositórios e mergulhar no código. Se você se interessa por desenvolvimento web, programação backend ou gestão de dados, encontrará projetos interessantes aqui. 
+
+Caso tenha dúvidas ou queira colaborar, abra uma issue ou entre em contato!
+
+---
+
+Feito com paixão por código limpo e tecnologia elegante.  
+Boas codificações! 🚀
+
+```
