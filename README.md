@@ -1,5 +1,3 @@
-`README.md`
-```md
 # Meu Portfólio de Tecnologias
 
 Seja bem-vindo ao meu portfólio no GitHub! Aqui você encontrará uma coleção selecionada de projetos que mostram minhas habilidades em várias linguagens e tecnologias, como Python, HTML5, CSS3 e SQL. Cada projeto reflete minha paixão por código elegante, design clean e soluções práticas.
@@ -24,12 +22,36 @@ Gerenciamento e consultas a bancos de dados relacionais com precisão para dar s
 
 ## 🎯 Distribuição de Uso das Linguagens
 
-| Linguagem | Uso (%) |
-| --------- | -------:|
-| Python    | 40%     |
-| HTML5     | 25%     |
-| CSS3      | 20%     |
-| SQL       | 15%     |
+|
+ Linguagem 
+|
+ Uso (%) 
+|
+|
+---------
+|
+-------:
+|
+|
+ Python    
+|
+ 40%     
+|
+|
+ HTML5     
+|
+ 25%     
+|
+|
+ CSS3      
+|
+ 20%     
+|
+|
+ SQL       
+|
+ 15%     
+|
 
 <div style="background:#e0e0e0; border-radius:8px; overflow:hidden; width:100%; max-width:600px; height:24px; margin: 8px 0;">
   <div style="width:40%; background:#4f46e5; height:100%; display:inline-block;"></div>
@@ -60,5 +82,3 @@ Caso tenha dúvidas ou queira colaborar, abra uma issue ou entre em contato!
 
 Feito com paixão por código limpo e tecnologia elegante.  
 Boas codificações! 🚀
-
-```
